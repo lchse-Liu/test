@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ySoXq/QPtyRRYMuWoZPIBOyGZfG8Cur3FZrKvNSB4FhMBZBNU6TOf16gIkxJhL6/f3ya1eMvf8Nz02vWT6uUA==",
+  "success": true,
+  "projectFilePath": "D:\\demo\\WPF\\demo005-Clock\\demo005-Clock\\demo005-Clock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
